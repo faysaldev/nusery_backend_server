@@ -1,4 +1,6 @@
+# Online Nursery Website Server
 
+**Authors:** Faysal and Manik
 
 ## Project Overview
 
@@ -10,7 +12,7 @@
 
 ## GitHub Repositories
 
-- **Backend Repository:** [nursery-website-server-repository](https://github.com/Programmer-Manik/OnlineNurseryWebsite_Server.git)
+- **Backend Repository:** [nursery-website-server-repository](https://github.com/faysaldev/nusery_backend_server)
 
 ## Features
 
@@ -45,6 +47,6 @@ Ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   https://github.com/Programmer-Manik/OnlineNurseryWebsite_Server.git
-   cd OnlineNurseryWebsite_Server
+   https://github.com/faysaldev/nusery_backend_server
+   cd nusery_server
    ```
